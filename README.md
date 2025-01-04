@@ -2,7 +2,6 @@
 
 A full stack Vue and python web application using Postgres for Nested Tags Tree.
 
-## Note: API Code under master branch (Switch to master branch to view code) 
 ## Note: Database Credentials and url added directly to code without using .env file for easier testing.
 
 ## Requirements
