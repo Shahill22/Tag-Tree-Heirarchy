@@ -71,4 +71,6 @@ A full stack Vue and python web application using Postgres for Nested Tags Tree.
    The server will start, and you should see the message "Server is running on port 8081" in the console.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/5c0ba4e8-5bcf-4996-923d-c422e408c821)
+
 
